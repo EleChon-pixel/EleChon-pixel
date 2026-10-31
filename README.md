@@ -7,7 +7,6 @@ ECE student interested in cybersecurity, self-hosting, AI coding agents, and run
 - **Offensive security:** Hack The Box machines, written up with methodology and lessons learned.
 - **AI coding agents:** tools that check what agents like Claude Code and Codex claim against what they actually did.
 - **Homelab:** a home server running Docker, Caddy, AdGuard Home, Tailscale, and self-hosted apps, plus small tools for it.
-- **Signal and image processing:** lab work in Python.
 
 ## Projects
 

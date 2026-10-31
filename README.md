@@ -1,6 +1,6 @@
 # Hi, I'm Eleftherios
 
-ECE student interested in cybersecurity, self-hosting, AI coding agents, and image processing.
+ECE student interested in cybersecurity, self-hosting, AI coding agents, and running.
 
 ## What I work on
 
